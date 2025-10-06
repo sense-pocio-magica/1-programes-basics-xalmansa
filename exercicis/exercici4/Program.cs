@@ -10,7 +10,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
-        
+        Console.WriteLine("Calculadora de euros a pesetas ");
+        var pesetas = 166.386;
+        int pesetas1 = Convert.ToInt16(pesetas);
+
+        Console.Write("Preu en euros? ");
+        var euros = Console.ReadLine();
+        double euros1 = Convert.ToDouble(euros);
+        Console.WriteLine($"El preu en pesetas es de: {euros1 * pesetas1}");
     }
 }

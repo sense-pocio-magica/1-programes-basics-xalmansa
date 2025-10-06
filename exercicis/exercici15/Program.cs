@@ -6,6 +6,18 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Escriu el teu nom: ");
+        var nom = Console.ReadLine();
+        string primeraLetraMayuscula = Char.ToUpper(nom[0]).ToString();
+        string laresta = nom.Substring(1).ToLower();
+        Console.Write("Escriu el teu cognom ");
+        var cognom = Console.ReadLine();
+        string primeraLetraMayuscula2 = Char.ToUpper(cognom[0]).ToString();
+        string laresta1 = cognom.Substring(1).ToLower();
+        
+        var resultat = primeraLetraMayuscula + laresta;
+        var resultat1 = primeraLetraMayuscula2 + laresta1;
+        
+        Console.WriteLine($"El teu nom i cognom es: {resultat} {resultat1}.");
     }
 }

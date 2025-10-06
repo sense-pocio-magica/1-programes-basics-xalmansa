@@ -27,6 +27,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Calculadora completa");
+        Console.Write("Primer numero: ");
+        var numero = Convert.ToInt16(Console.ReadLine());
+
+        Console.Write("Segon numero: ");
+        var numero2 = Convert.ToInt16(Console.ReadLine());
+
+        var suma = numero + numero2;
+        var resta = numero2 - numero;
+        var multiplicació = numero * numero2;
+        var divisio = numero2 / numero;
+
+        var sobradivisio = divisio % numero;
+        
+        Console.WriteLine($"La suma es: {suma}, la resta es: {resta}, la multiplicacio: {multiplicació}, la divisio {divisio} i el que sobra: {sobradivisio}");
     }
 }
