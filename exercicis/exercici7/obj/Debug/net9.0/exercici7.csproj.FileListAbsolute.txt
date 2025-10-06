@@ -1,0 +1,15 @@
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/obj/Debug/net9.0/exercici7.GeneratedMSBuildEditorConfig.editorconfig
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/obj/Debug/net9.0/exercici7.AssemblyInfoInputs.cache
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/obj/Debug/net9.0/exercici7.AssemblyInfo.cs
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/obj/Debug/net9.0/exercici7.csproj.CoreCompileInputs.cache
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/obj/Debug/net9.0/exercici7.sourcelink.json
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/bin/Debug/net9.0/exercici7
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/bin/Debug/net9.0/exercici7.deps.json
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/bin/Debug/net9.0/exercici7.runtimeconfig.json
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/bin/Debug/net9.0/exercici7.dll
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/bin/Debug/net9.0/exercici7.pdb
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/obj/Debug/net9.0/exercici7.dll
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/obj/Debug/net9.0/refint/exercici7.dll
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/obj/Debug/net9.0/exercici7.pdb
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/obj/Debug/net9.0/exercici7.genruntimeconfig.cache
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici7/obj/Debug/net9.0/ref/exercici7.dll

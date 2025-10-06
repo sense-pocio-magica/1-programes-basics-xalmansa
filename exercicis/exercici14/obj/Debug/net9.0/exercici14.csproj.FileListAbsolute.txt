@@ -1,0 +1,15 @@
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/obj/Debug/net9.0/exercici14.GeneratedMSBuildEditorConfig.editorconfig
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/obj/Debug/net9.0/exercici14.AssemblyInfoInputs.cache
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/obj/Debug/net9.0/exercici14.AssemblyInfo.cs
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/obj/Debug/net9.0/exercici14.csproj.CoreCompileInputs.cache
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/obj/Debug/net9.0/exercici14.sourcelink.json
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/bin/Debug/net9.0/exercici14
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/bin/Debug/net9.0/exercici14.deps.json
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/bin/Debug/net9.0/exercici14.runtimeconfig.json
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/bin/Debug/net9.0/exercici14.dll
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/bin/Debug/net9.0/exercici14.pdb
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/obj/Debug/net9.0/exercici14.dll
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/obj/Debug/net9.0/refint/exercici14.dll
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/obj/Debug/net9.0/exercici14.pdb
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/obj/Debug/net9.0/exercici14.genruntimeconfig.cache
+/home/xalmansa/Escritorio/Insti/programacion/1-programes-basics-xalmansa/exercicis/exercici14/obj/Debug/net9.0/ref/exercici14.dll

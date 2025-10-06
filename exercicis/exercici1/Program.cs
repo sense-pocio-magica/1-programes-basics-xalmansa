@@ -18,6 +18,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Entra el nom: ");
+        var nom = Console.ReadLine();
+        Console.Write("Entra el cognom: ");
+        var cognom = Console.ReadLine();
+
+        Console.WriteLine($"Em dic {cognom}, {nom} {cognom}");
     }
 }

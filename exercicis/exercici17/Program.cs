@@ -15,6 +15,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Número lleig: ");
+        var lleig = Console.ReadLine();
+        float numero = Convert.ToSingle(lleig);
+        float enter = (float)Math.Truncate(numero);
+        float resultat = numero - enter;
+        var resultat1 = Math.Round(resultat,2);
+        Console.Write($"Nombre meravellós: {resultat}");
     }
 }
